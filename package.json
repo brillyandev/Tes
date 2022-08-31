@@ -13,7 +13,7 @@
     "image-to-base64": "^2.1.1",
     "instagram-save": "^1.3.2",
     "moment": "^2.26.0",
-    "moment-timezone": "^0.5.31",
+    "moment-timezone": "^0.5.35",
     "mqtt": "^4.1.0",
     "nana-api": "^1.1.2",
     "nhentai-js": "^4.0.0",
